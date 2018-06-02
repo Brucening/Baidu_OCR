@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\huanxin\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cd108935e15b406d7ba44a09030066f8ff898b9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\huanxin\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cd108935e15b406d7ba44a09030066f8ff898b9\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a490d8f865773a8b7d13c6120128a85ec18cbbb3\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\huanxin\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cd108935e15b406d7ba44a09030066f8ff898b9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\huanxin\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cd108935e15b406d7ba44a09030066f8ff898b9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a490d8f865773a8b7d13c6120128a85ec18cbbb3\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\huanxin\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cd108935e15b406d7ba44a09030066f8ff898b9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\huanxin\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cd108935e15b406d7ba44a09030066f8ff898b9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a490d8f865773a8b7d13c6120128a85ec18cbbb3\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a490d8f865773a8b7d13c6120128a85ec18cbbb3\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a490d8f865773a8b7d13c6120128a85ec18cbbb3\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\AndroidStudioProjects\\Baidu_OCR\\ocr_ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a490d8f865773a8b7d13c6120128a85ec18cbbb3\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]
